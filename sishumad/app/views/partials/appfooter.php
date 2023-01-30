@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta content="utf-8" http-equiv="encoding">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name='viewport' content='width=device-width, initial-scale=1' />
+<meta name='google' content='notranslate' />
+<meta name='theme' content='Sishumad' />
+<meta name='designer' content='Rohana' />
+<meta name='theme:designer' content='Rohana' />
+<meta name='theme:version' content='THEME_VERSION' />
+<meta name='keywords' content="Sisfo humas dan Admisi" />
+<meta property="og:site_name" content="Sisfo humas dan Admisi"/>
+<meta property="og:type" content="article"/>
+<link rel="canonical" href="#"/>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
+<meta name="subject" content="Situs Web Desa">
+<meta name="copyright" content="Sisfo humas dan Admisi">
+<meta name="language" content="Indonesia">
+<meta name="revised" content="Sunday, Des 16, 2021, 5:15 pm"/>
+<meta name="Classification" content="Government">
+<meta name="url" content="#">
+<meta name="identifier-URL" content="#">
+<meta name="category" content="Sisfo humas dan Admisi">
+<meta name="coverage" content="Worldwide">
+<meta name="distribution" content="Global">
+<meta name="rating" content="General">
+<meta name="revisit-after" content="7 days">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="imagetoolbar" content="no"/>
+<meta name="revisit-after" content="7"/>
+<meta name="webcrawlers" content="all"/>
+<meta name="rating" content="general"/>
+<meta name="spiders" content="all"/>
+<link rel="alternate" type="application/rss+xml" title="Feed Sisfo humas dan Admisi" href="https://www.sered-banjarnegara.desa.id/sitemap"/>
+<title>Sisfo humas dan Admisi</title>
+<meta name='description' content="Sisfo humas dan Admisi" />
+<meta itemprop="name" content="Sisfo humas dan Admisi"/>
+<meta property="og:title" content="Sisfo humas dan Admisi"/>
+	
+
+<meta property="og:image" content="assets/images/logo.png"/>
+<meta itemprop="image" content="assets/images/logo.png"/>
+
+
+
+<meta property='og:description' content="Sisfo humas dan Admisi" />
+<meta property='og:url' content="#" />
+<link rel="shortcut icon" href="assets/images/favicon.ico"/>
+<link rel="stylesheet" href="assets/colour_css/custom.css">
+<link rel="stylesheet" href="assets/colour_css/bootstrap.css">
+<link rel="stylesheet" href="assets/colour_css/font-awesome.min.css">
+<link rel="stylesheet" href="assets/colour_css/fancy.css">
+<link rel="stylesheet" href="assets/colour_css/leaflet.css"/>
+<link rel="stylesheet" href="assets/colour_css/mapbox-gl.css"/>
+<link rel="stylesheet" href="assets/colour_css/peta.css">
+<link rel="stylesheet" href="assets/colour_css/menu.css">
+<link rel="stylesheet" href="assets/colour_css/style.css">
+<link rel="stylesheet" href="assets/colour_css/standar-color.css">
+
+<!-- Warna Default -->
+<link rel="stylesheet" href="assets/colour_css/hijau.css">
+<!-- Silahkan ganti tulisan hijau diatas dengan salahsatu pilihan : biru / merah / pink / dark -->
+
+<!-- Pilihan Warna -->
+<link href="assets/colour_css/hijau.css" rel="stylesheet alternate" title="hijau"/>
+<link href="assets/colour_css/biru.css" rel="stylesheet alternate" title="biru"/>
+<link href="assets/colour_css/merah.css" rel="stylesheet alternate" title="merah"/>
+<link href="assets/colour_css/pink.css" rel="stylesheet alternate" title="pink"/>
+<link href="assets/colour_css/dark.css" rel="stylesheet alternate" title="dark"/>
+<!-- --><link rel="stylesheet" href="assets/colour_css/vmenumode.css">
+
+<!-- Awal PWA -->
+<link rel="manifest" href="assets/colour_css/manifest.json">
+<script type="module">
+   import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+   const el = document.createElement('pwa-update');
+   document.body.appendChild(el);
+</script>
+<!-- Akhir PWA --><link rel="stylesheet" href="assets/colour_css/responsive.css">
+<meta property="og:title" content="Sisfo humas dan Admisi"/>
+<meta property="og:url" content="#"/>
+<meta property="og:description" content="Sisfo humas dan Admisi"/>
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ if (window.scrollY == 0) window.scrollTo(0,1); } </script>
+<script src="assets/colour_js/jquery-first.min.js"></script>
+<script src="assets/colour_js/customize.js"></script>
+<script language='javascript' src="assets/colour_js/jquery.cycle2.min.js"></script>
+<script language='javascript' src="assets/colour_js/jquery.cycle2.carousel.js"></script>
+<script src="assets/colour_js/bootstrap.min.js"></script>
+<script src="assets/colour_js/metisMenu.min.js"></script>
+<link rel="stylesheet" type="text/css" href="assets/colour_css/dataTables.bootstrap.min.css">
+<script src="assets/colour_js/jquery.dataTables.min.js"></script>
+<script src="assets/colour_js/dataTables.bootstrap.min.js"></script>
+<script language='javascript' src="assets/colour_js/jquery.min.js"></script>
+<script src="assets/colour_js/jquery.sticky.js"></script>
+<script src="assets/colour_js/script.js"></script>
+<script src="assets/colour_js/leaflet.js"></script>
+<script src="assets/colour_js/layout.js"></script>
+<script src="assets/colour_js/jquery.colorbox.js"></script>
+<script src="assets/colour_js/leaflet-providers.js"></script>
+<script src="assets/colour_js/highcharts/highcharts.js"></script>
+<script src="assets/colour_js/highcharts/highcharts-3d.js"></script>
+<script src="assets/colour_js/highcharts/exporting.js"></script>
+<script src="assets/colour_js/highcharts/highcharts-more.js"></script>
+<script src="assets/colour_js/highcharts/sankey.js"></script>
+<script src="assets/colour_js/highcharts/organization.js"></script>
+<script src="assets/colour_js/highcharts/accessibility.js"></script>
+<script src="assets/colour_js/mapbox-gl.js"></script>
+<script src="assets/colour_js/leaflet-mapbox-gl.js"></script>
+<script src="assets/colour_js/peta.js"></script>
+<script src="assets/colour_js/jquery.validate.min.js?v1a8dc8a74a2bb8fee9bbb298385174a3"></script>
+<script src="assets/colour_js/validasi.js?v4cac8ed16fb364b75c7fb1a3503dc4fa"></script>
+<script src="assets/colour_js/localization/messages_id.js?vc36d3dbfc8e5a7d22a5601604aee8f8f"></script>
+<script src="assets/colour_js/script.js?va1ae610d2fb64fe70839992d3d7e4a7d"></script>
+<script type="text/javascript">
+	var BASE_URL = "#";
+</script>
+<script src="assets/colour_js/fancybox.js"></script>
+<script type="text/javascript" src="assets/colour_js/jquery-bt.js"></script>
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v3.2&appId=478614799555442&autoLogAppEvents=1"></script>	<script type="text/javascript">
+		var csrfParam = 'sidcsrf';
+		var getCsrfToken = () => document.cookie.match(new RegExp(csrfParam +'=(\\w+)'))[1]
+	</script>
+	<script src="assets/colour_js/anti-csrf.js?v40fdecf5f3d7feb30f54550ffc9220e6"></script>
+
+</head>
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="custom-modal1">
+<div class="modal left fade " id="aparatur" role="dialog" aria-labelledby="aparatur" aria-hidden="true" data-backdrop="false">
+	<div class="modal-dialog bgwhite" role="document">
+	<div class="modal-absolute bggrey1 bordergrey1">
+	<div class="icon-item bgwhite bordergrey1" data-toggle="modal" data-target="http://localhost/sishumad/">
+		<div class="icon-item-inner"><img src="https://sered-banjarnegara.desa.id/desa/themes/batuah/images/iconmenu/aparatur.svg"/><p>Aparatur<br/>Desa</p></div>
+	</div>
+		<div class="inner-modal">
+		<div class="withscroll">
+		
+<div class="withscroll-padding">
+			<div class="perangkat">
+		<div class="rowsame">
+			<div class="perangkat-image">
+				<img src="https://sered-banjarnegara.desa.id/desa/upload/user_pict/1661997284646149.png" alt="YUANITA DYAH RATNAWATI, S.Pd">
+			</div>
+			<div class="perangkat-title flexleft">
+				<div>
+				<h2>Kepala Desa</h2>
+				<p>YUANITA DYAH RATNAWATI, S.Pd</p>
+									<div class="flexleft">
+					<div class="tidakada flexleft bgmerah">Belum Hadir</div>
+					</div>
+								</div>
+			</div>
+		</div>	
+		</div>
+			<div class="perangkat">
+		<div class="rowsame">
+			<div class="perangkat-image">
+				<img src="https://sered-banjarnegara.desa.id/desa/upload/user_pict/1661997319880269.png" alt="YUGO BUDI SAPUTRO, S. Sos.I">
+			</div>
+			<div class="perangkat-title flexleft">
+				<div>
+				<h2>Sekretaris Desa</h2>
+				<p>YUGO BUDI SAPUTRO, S. Sos.I</p>
+									<div class="flexleft">
+					<div class="tidakada flexleft bgmerah">Belum Hadir</div>
+					</div>
+								</div>
+			</div>
+		</div>	
+		</div>
+			<div class="perangkat">
+		<div class="rowsame">
+			<div class="perangkat-image">
+				<img src="https://sered-banjarnegara.desa.id/desa/upload/user_pict/1661997613734139.png" alt="PARSO">
+			</div>
+			<div class="perangkat-title flexleft">
+				<div>
+				<h2>Kaur Keuangan</h2>
+				<p>PARSO</p>
+									<div class="flexleft">
+					<div class="tidakada flexleft bgmerah">Belum Hadir</div>
+					</div>
+								</div>
+			</div>
+		</div>	
+		</div>
+			<div class="perangkat">
+		<div class="rowsame">
+			<div class="perangkat-image">
+				<img src="https://sered-banjarnegara.desa.id/desa/upload/user_pict/1661998309596664.jpg" alt="MISTAM">
+			</div>
+			<div class="perangkat-title flexleft">
+				<div>
+				<h2>Kaur Perencanaan</h2>
+				<p>MISTAM</p>
+									<div class="flexleft">
+					<div class="tidakada flexleft bgmerah">Belum Hadir</div>
+					</div>
+								</div>
+			</div>
+		</div>	
+		</div>
+			<div class="perangkat">
+		<div class="rowsame">
+			<div class="perangkat-image">
+				<img src="https://sered-banjarnegara.desa.id/desa/upload/user_pict/1661998355299828.jpg" alt="ARIF BUDIAWAN, SE">
+			</div>
+			<div class="perangkat-title flexleft">
+				<div>
+				<h2>Kaur Umum  TU</h2>
+				<p>ARIF BUDIAWAN, SE</p>
+									<div class="flexleft">
+					<div class="tidakada flexleft bgmerah">Belum Hadir</div>
+					</div>
+								</div>
+			</div>
+		</div>	
+		</div>
+			<div class="perangkat">
+		<div class="rowsame">
+			<div class="perangkat-image">
+				<img src="https://sered-banjarnegara.desa.id/desa/upload/user_pict/1661998385880810.jpg" alt="ALIMAN">
+			</div>
+			<div class="perangkat-title flexleft">
+				<div>
+				<h2>Kasi Pemerintahan</h2>
+				<p>ALIMAN</p>
+									<div class="flexleft">
+					<div class="tidakada flexleft bgmerah">Close</div>
+					</div>
+								</div>
+			</div>
+		</div>	
+		</div>
+			<div class="perangkat">
+		<div class="rowsame">
+			<div class="perangkat-image">
+				<img src="https://sered-banjarnegara.desa.id/desa/upload/user_pict/1661998409342504.jpg" alt="GIONO">
+			</div>
+			<div class="perangkat-title flexleft">
+				<div>
+				<h2>Kasi Kesejahteraan</h2>
+				<p>GIONO</p>
+									<div class="flexleft">
+					<div class="tidakada flexleft bgmerah">Close</div>
+					</div>
+								</div>
+			</div>
+		</div>	
+		</div>
+			<div class="perangkat">
+		<div class="rowsame">
+			<div class="perangkat-image">
+				<img src="https://sered-banjarnegara.desa.id/desa/upload/user_pict/1661998431339392.jpg" alt="JAMAN">
+			</div>
+			<div class="perangkat-title flexleft">
+				<div>
+				<h2>Kasi Pelayanan</h2>
+				<p>JAMAN</p>
+									<div class="flexleft">
+					<div class="tidakada flexleft bgmerah">Close</div>
+					</div>
+								</div>
+			</div>
+		</div>	
+		</div>
+			<div class="perangkat">
+		<div class="rowsame">
+			<div class="perangkat-image">
+				<img src="https://sered-banjarnegara.desa.id/desa/upload/user_pict/1661998452379381.jpg" alt="SUYITNO">
+			</div>
+			<div class="perangkat-title flexleft">
+				<div>
+				<h2>Kepala Dusun I</h2>
+				<p>SUYITNO</p>
+									<div class="flexleft">
+					<div class="tidakada flexleft bgmerah">Belum Hadir</div>
+					</div>
+								</div>
+			</div>
+		</div>	
+		</div>
+			<div class="perangkat">
+		<div class="rowsame">
+
+			<div class="perangkat-title flexleft">
+				<div>
+				<h2>Kepala Dusun II</h2>
+				<p>SYARIF HIDAYATULOH</p>
+									<div class="flexleft">
+					<div class="tidakada flexleft bgmerah">Close</div>
+					</div>
+								</div>
+								
+			</div>
+		</div>	
+		</div>
+	</div>			</div>	
+		</div>
+		
+	</div>
+	</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="assets/colour_js/wow.min.js"></script>
+<script src="assets/colour_js//slick.min.js"></script>
+<script src="assets/colour_js//custom.js"></script>
+<script>
+	$(document).ready(function(){
+    $(".tip-top").tooltip({
+        placement : 'top'
+    });
+    $(".tip-right").tooltip({
+        placement : 'right'
+    });
+    $(".tip-bottom").tooltip({
+        placement : 'bottom'
+    });
+    $(".tip-left").tooltip({
+        placement : 'left'
+    });
+	});
+</script>
+<script type='text/javascript'>
+$(function() { $(window).scroll(function() { if($(this).scrollTop()>100) { $('#ScrollToTop').fade()} else { $('#ScrollToTop').fade();}});
+$('#ScrollToTop').click(function(){$('html,body').animate({scrollTop:0},1000);return false})});
+</script>
+		</div>
+			
+		</div>
+		
+	
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

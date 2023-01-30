@@ -1,0 +1,87 @@
+{
+  "dir": "ltr",
+  "name": "SID Sered",
+  "short_name": "Sistem Informasi Desa Sered",
+  "categories": [
+    "government",
+    "news",
+    "education"
+  ],
+  "lang": "id",
+  "description": "Website SID Desa Sered Kec. Madukara Kab. Banjarnegara",
+  "scope": "/",
+  "id": "/",
+  "start_url": "https://www.sered-banjarnegara.desa.id/",
+  "url": "https://www.sered-banjarnegara.desa.id/",
+  "display": "standalone",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "orientation": "any",
+  "generated": true,
+  "icons": [
+    {
+      "purpose": "any",        
+      "src": "https://www.sered-banjarnegara.desa.id/desa/img/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "purpose": "maskable",
+      "src": "https://www.sered-banjarnegara.desa.id/desa/img/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "desa/img/berita.png",
+      "sizes": "600x1065",
+      "type": "image/png",
+      "platform": "narrow"
+    },
+    {
+      "src": "desa/img/statistik.png",
+      "sizes": "600x1065",
+      "type": "image/png",
+      "platform": "narrow"
+    },
+    {
+      "src": "desa/img/peta.png",
+      "sizes": "600x1065",
+      "type": "image/png",
+      "platform": "narrow"
+    },
+    {
+      "src": "desa/img/mandiri.png",
+      "sizes": "600x1065",
+      "type": "image/png",
+      "platform": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Login Admin",
+      "short_name": "Admin",
+      "description": "Login Administrator",
+      "url": "/siteman",
+      "icons": [
+        {
+          "src": "desa/img/192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Layanan Mandiri",
+      "short_name": "Mandiri",
+      "description": "Login Layanan Mandiri",
+      "url": "/layanan-mandiri",
+      "icons": [
+        {
+          "src": "desa/img/192x192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

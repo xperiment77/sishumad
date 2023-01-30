@@ -1,0 +1,38 @@
+
+.color-1{color:#ab115a !important;}
+.color-2, .artikelhome-link-item{color:#740043;}
+.light-tombol{display:none !important;}
+.colorsoft-1{color:#c47596;}
+.borderwhite{border-color:#fff;}
+.bordersoft{border-color:#c47596;}
+.bordercolor-1, .metanext, .statcircle, .box-header h3, .aparatur-col, .pemerintah-title, .jadwal-box{border-color:#ab115a !important;}
+.bordercolor-2{border-color:#740043 !important;}
+.running-title:after{border-left:#740043 20px solid;}
+.countdown-head svg, .beranda-icon svg, .pengaduan-pop .contact-icon svg, .pengaduan-pop .social-icon svg, .pemb-lokasi svg{fill:#ab115a;}
+.widget-head svg, .change-menu svg{fill:#c47596;}
+.stathead h1:before{border-right:#740043 6px solid;}
+.stathead h1:after{border-left:#740043 6px solid;}
+.bgcolor-1, .widget-inner .social-icon{background:#ab115a;}
+.bgcolor-3, .bg-navsub{background:#740043;}
+.bgcolor-soft1, .jamkerja th{background:#edb8ce;}
+.bggrad-color1{background:#ab115a;background:-moz-linear-gradient(90deg,#ab115a 20%,#e665b6 50%,#ab115a 80%);background:-webkit-linear-gradient(90deg,#ab115a 20%,#e665b6 50%,#ab115a 80%);background:linear-gradient(90deg,#ab115a 20%,#e665b6 50%,#ab115a 80%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#ab115a",endColorstr="#ab115a",GradientType=1)}
+.bggrad-color2{background:#740043;background:-moz-linear-gradient(75deg,#740043 0%,#ab115a 100%);background:-webkit-linear-gradient(75deg,#740043 0%,#ab115a 100%);background:linear-gradient(75deg,#740043 0%,#ab115a 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#740043",endColorstr="#ab115a",GradientType=1)}
+.bg {background-image: linear-gradient(90deg, #e665b6 50%, #ab115a 50%);}
+.headline-image-border{border:#ab115a 5px solid;}
+.headline-image-border:before, .headline-image-border:after, .headline-text:before, .headline-text:after{border-left:#ab115a 60px solid;}
+.headline-text:before{border-left:#ab115a 65px solid;}
+.hour{background:#ab115a;}
+.minute{background:#e665b6;}
+.bgmodalcolor1{background:rgba(116,0,69,0.6);}
+.homestyle-backg{background:transparent;background:-moz-linear-gradient(0deg,transparent 0%,#740043 100%);background:-webkit-linear-gradient(0deg,transparent 0%,#740043 100%);background:linear-gradient(0deg,transparent 0%,#740043 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="transparent",endColorstr="#740043",GradientType=1)}
+.headgaleri-cover{background:#740043;background:-moz-linear-gradient(90deg,#740043 0%,transparent 100%);background:-webkit-linear-gradient(90deg,#740043 0%,transparent 100%);background:linear-gradient(90deg,#740043 0%,transparent 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#740043",endColorstr="transparent",GradientType=1)}
+.pagination>.active>a,.pagination>.active>span,.pagination>.active>a:hover,.pagination>.active>span:hover,.pagination>.active>a:focus,.pagination>.active>span:focus{color:#fff!important;background-color:#ab115a;border-color:#ab115a}
+.pagination>li>a,.pagination>li>span{color:#ab115a;border:1px solid #ab115a}
+.pagination>li>a:hover,.pagination>li>span:hover,.pagination>li>a:focus,.pagination>li>span:focus{color:#ab115a;background-color:#e0e0e0;border-color:#ab115a}
+.artikelhome .pagination>.active>a,.artikelhome .pagination>.active>span,.artikelhome .pagination>.active>a:hover,.artikelhome .pagination>.active>span:hover,.artikelhome .pagination>.active>a:focus,.artikelhome .pagination>.active>span:focus{color:#fff;background-color:#ab115a;border-color:rgba(255,255,255,.3)}
+.progress-moved .progress-bar2 {background-color: #ef8ec2;animation: progress 5s infinite;}
+@keyframes progress {
+0% {width: 0%;background: transparent;}
+100% {width: 100%;background: #ef8ec2;}
+}
+.progress {background-color: #c23887 !important;}
